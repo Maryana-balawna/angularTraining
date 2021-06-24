@@ -1,10 +1,5 @@
-https://www.youtube.com/watch?v=GtQ_jRggfds&list=PL1ano0qwNuBwA90YwA-5d8g2wbOYHkl5h&index=38
-https://www.youtube.com/watch?v=Sg5wS4Wlrpk&list=PL1ano0qwNuBwA90YwA-5d8g2wbOYHkl5h&index=37
-https://www.youtube.com/watch?v=IO0b20HVUcA&list=PL1ano0qwNuBwA90YwA-5d8g2wbOYHkl5h&index=36
-https://www.youtube.com/watch?v=OoHR8tgMaKY&list=PL1ano0qwNuBwA90YwA-5d8g2wbOYHkl5h&index=35
-https://www.youtube.com/watch?v=Qccg0WnGhH0&list=PL1ano0qwNuBwA90YwA-5d8g2wbOYHkl5h&index=34
-https://www.youtube.com/watch?v=dtvhR5NEiwc&list=PL1ano0qwNuBwA90YwA-5d8g2wbOYHkl5h&index=40
-https://www.youtube.com/watch?v=dYJ6mPI3yVo&list=PL1ano0qwNuBwA90YwA-5d8g2wbOYHkl5h&index=41
-https://www.youtube.com/watch?v=KXZ_i5f1emc&list=PL1ano0qwNuBwA90YwA-5d8g2wbOYHkl5h&index=42
-https://www.youtube.com/watch?v=DTC6_hMaYg8&list=PL1ano0qwNuBwA90YwA-5d8g2wbOYHkl5h&index=43
-https://www.youtube.com/watch?v=BNWefdwwH7w&list=PL1ano0qwNuBwA90YwA-5d8g2wbOYHkl5h&index=44
+https://www.youtube.com/watch?v=qXQmzj7RlyU&list=PL1ano0qwNuBwA90YwA-5d8g2wbOYHkl5h&index=46 :forms :intro
+https://www.youtube.com/watch?v=q5ocLuDWTwE&list=PL1ano0qwNuBwA90YwA-5d8g2wbOYHkl5h&index=50 :reactive 
+https://www.youtube.com/watch?v=gfRZ1-VJ3vw&list=PL1ano0qwNuBwA90YwA-5d8g2wbOYHkl5h&index=48:Submitting Reactive Forms
+https://www.youtube.com/watch?v=ZXijTdPkf4Y&list=PL1ano0qwNuBwA90YwA-5d8g2wbOYHkl5h&index=54&ab_channel=AngularArmy
+https://www.youtube.com/watch?v=W55OXqq7njQ&list=PL1ano0qwNuBwA90YwA-5d8g2wbOYHkl5h&index=52&ab_channel=AngularArmy

@@ -1,60 +1,32 @@
-<p ngNonBindable>{{ name }}</p>
-<p appHighlight>Hello World</p>
-<hr />
-<input type="text" />
-<br />
-<br />
-<br />
-
-<input type="text" appRandomColors />
-<!---->
-<div *ngIf="name">{{ color }}</div>
-
-<ng-template [ngif]="name">
-  <div>{{ color }}</div>
-</ng-template>
-
-<!--ngfor-->
-<div
-  *ngFor="
-    let name of names;
-    let i = index;
-    let odd = odd;
-    let even = even;
-    let first = first;
-    let last = last;
-    let count = count;
-    trackBy: trackByFn
-  "
->
-  <div *ngIf="last">
-    {{ name }} {{ i + " " + odd + " " + even + " " + first + " " + last + " " }}
-  </div>
+<div>
+  UpDate value
+  <button (click)="(0)">UPDATE</button>
+  <!-- </label> -->
+  <hr />
+  <form [formGroup]="profileForm">
+    <label
+      >First Name
+      <input type="text" formControlName="firstName" />
+    </label>
+    <label>
+      Last Name
+      <input type="text" formControlName="lastName" />
+    </label>
+    <br />
+    <div formControlName="address">
+      <label>
+        City :
+        <input type="text" formControlName="city" />
+      </label>
+      <br />
+      <label>
+        Street:
+        <input type="text" formControlName="street" />
+      </label>
+    </div>
+    <br />
+    <button>Submit</button>
+  </form>
+  <hr />
+  {{ profileForm.status }}
 </div>
-<hr />
-
-<ng-template
-  ngFor
-  let-name
-  [ngForOf]="names"
-  let-i="index"
-  ,
-  let-odd="odd"
-  ,
-  let-even="even"
-  ,
-  let-first="first"
-  ,
-  let-last="last"
-  ,
-  let-count="count"
-  ;
-  [ngForTrackBy]="trackByFn"
->
-  <div>
-    {{ name }}
-    {{ i + "" + odd + "" + even + "" + first + "" + last + "" + count }}
-  </div>
-</ng-template>
-
-<app-dashboard></app-dashboard>
