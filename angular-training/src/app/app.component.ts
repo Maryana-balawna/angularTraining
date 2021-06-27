@@ -21,7 +21,7 @@ export class AppComponent {
 favariteColor='';
 name= ();*/
 //grouping form
-profileForm:FormGroup ;
+/*profileForm:FormGroup ;
 
 
 
@@ -36,7 +36,7 @@ this.profileForm=this.fb.group({
     street: ''
   })
 
-})
+})*/
 
   //data flow//
   /*this.favariteColorControl.valueChanges.subscribe((data: any) => console.log(data));
@@ -49,7 +49,7 @@ this.profileForm=this.fb.group({
 this.name.valueChanges.subscribe((changes: any)=>console.log('changes is',(changes)))
 
 */
-}
+//}
 /*updateName(){
   this.name.setValue('hOoOoOla')
 }*/

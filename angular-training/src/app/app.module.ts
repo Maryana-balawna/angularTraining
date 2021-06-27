@@ -12,6 +12,7 @@ import { FormGroup } from '@angular/forms';
 import { FormGroupName } from '@angular/forms';
 import {MatDialogModule} from '@angular/material/dialog';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
+import { FormComponent } from './form/form.component';
 
 @NgModule({
   declarations: [
@@ -20,6 +21,7 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
     RandomColorsDirective,
     DashboardComponent,
     DefulteImage,
+    FormComponent,
   ],
   imports: [
     BrowserModule,
