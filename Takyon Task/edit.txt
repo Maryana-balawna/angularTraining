@@ -1,0 +1,4 @@
+    background: #fff;
+    border: 1px solid #ced4da;
+    transition: border-color .2s,box-shadow .2s;
+    border-radius: .42rem;
